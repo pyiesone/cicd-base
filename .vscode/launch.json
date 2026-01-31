@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-D13revisionApplication<d13revision>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "sg.edu.nus.iss.d13revision.D13revisionApplication",
+            "projectName": "d13revision",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
