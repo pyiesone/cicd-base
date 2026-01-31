@@ -11,7 +11,7 @@ public class PersonService {
 
     public PersonService() {
         persons.add(new Person("Mark", "Zuckerberg"));
-        persons.add(new Person("Elon", "Musk"));
+        persons.add(new Person("Elon", "Musky"));
     }
 
     public List<Person> getPersons() {
