@@ -48,6 +48,7 @@ jobs:
           cmd_options: '-a'
   telegram_mesage:
       runs-on: ubuntu-latest
+      name: Send Telegram message on push
       steps:
         - name: send telegram message on push
           uses: appleboy/telegram-action@master
